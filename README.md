@@ -13,8 +13,8 @@ A comprehensive, interactive dashboard for visualizing global development data f
 
 ## 🚀 Live Demo
 
-**Frontend**: [https://your-demo-link.netlify.app](https://your-demo-link.netlify.app)  
-**Backend API**: [https://your-api-link.railway.app](https://your-api-link.railway.app)
+**Frontend**: [https://demo-link.netlify.app](https://demo-link.netlify.app)  
+**Backend API**: [https://api-link.railway.app](https://api-link.railway.app)
 
 ## 📊 Features
 
@@ -267,4 +267,5 @@ Project Link: [https://github.com/yourusername/social-impact-dashboard](https://
 ---
 
 ⭐ **If you find this project useful, please give it a star!** ⭐
+
 
