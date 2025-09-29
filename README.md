@@ -4,6 +4,13 @@ A comprehensive, interactive dashboard for visualizing global development data f
 
 ![Dashboard Preview](https://img.shields.io/badge/Status-Live%20Demo-brightgreen) ![React](https://img.shields.io/badge/React-18.2-blue) ![Node.js](https://img.shields.io/badge/Node.js-Express-green) ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
 
+## 🚀 Screenshots
+![Todo List 2 Screenshot](screenshots/sid-0.jpeg)
+![Todo List 2 Screenshot](screenshots/sid-1.png)
+![Todo List 2 Screenshot](screenshots/sid-2.png)
+![Todo List 2 Screenshot](screenshots/sid-3.png)
+![Todo List 2 Screenshot](screenshots/sid-4.png)
+
 ## 🚀 Live Demo
 
 **Frontend**: [https://your-demo-link.netlify.app](https://your-demo-link.netlify.app)  
@@ -260,3 +267,4 @@ Project Link: [https://github.com/yourusername/social-impact-dashboard](https://
 ---
 
 ⭐ **If you find this project useful, please give it a star!** ⭐
+
